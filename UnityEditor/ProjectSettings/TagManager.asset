@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trailer
+  - Truck
+  - Bullet
+  - Enemy_bullet
+  - Colider
+  - Mark
+  - InactiveTrailer
+  - Score
+  - Multiplier
+  - Manager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Truck
+  - Water
+  - UI
+  - Trailer
+  - Colider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Truck
+    uniqueID: 387089945
+    locked: 0
+  - name: Trailer
+    uniqueID: 1484581929
+    locked: 0
